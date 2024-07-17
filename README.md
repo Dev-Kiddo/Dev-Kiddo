@@ -31,7 +31,13 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a> 
 </div>  
 
+<div>
 <h2>
   <samp>Connect</samp>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px">
 </h2>
+
+<a href="https://www.linkedin.com/in/prasanth-s-313561221/">
+    <img align="left" src="https://media.licdn.com/dms/image/D4E10AQHH_xlvyu5atw/image-shrink_1280/0/1713260890630?e=1721473200&v=beta&t=yt2GMiqD3GZ7L0vs8mZK0E68hgwRZgjK7pQH20EaKik" width="28px" />
+  </a>
+  </div>
