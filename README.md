@@ -1,6 +1,6 @@
-<h1 align="center" ><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth </samp> </h1>
+<h1><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth </samp> </h1>
 
-<h3 align="center"><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
+<h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
 
 <!--
 **Dev-Kiddo/Dev-Kiddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
