@@ -1,4 +1,4 @@
-<h1><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></samp> </h1>
+<h1><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></samp> </h1>
 
 <h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
 
