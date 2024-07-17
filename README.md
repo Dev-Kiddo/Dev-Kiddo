@@ -1,6 +1,6 @@
-<h1><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></samp> </h1>
+<h1><samp>Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm Prasanth </samp> </h1>
 
-<h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
+<h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h3> 
 
 <div align="center">
   <a href="https://github.com/Dev-Kiddo">
