@@ -2,6 +2,12 @@
 
 <h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
 
+<div align="center">
+  <a href="https://github.com/Dev-Kiddo">
+  <img src="https://github.com/JatinKhatter07/Github-snake-SVG/blob/master/snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## Languages and Tools  
 <div >  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
