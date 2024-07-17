@@ -38,6 +38,6 @@
 </h2>
 
 <a href="https://www.linkedin.com/in/prasanth-s-313561221/">
-    <img align="left" src="https://media.licdn.com/dms/image/D4E10AQHH_xlvyu5atw/image-shrink_1280/0/1713260890630?e=1721473200&v=beta&t=yt2GMiqD3GZ7L0vs8mZK0E68hgwRZgjK7pQH20EaKik" width="28px" />
+    <img align="left" src="https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en_US" width="28px" />
   </a>
   </div>
