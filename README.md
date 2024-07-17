@@ -1,4 +1,5 @@
-<h1 align="center">Hiya! 👋, I'm Prasanth</h1>
+<h1 align="center" >Hiya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prasanth </h1>
+
 <h3 align="center">Driven Full Stack Web Developer originating from India</h3>
 
 <!--
