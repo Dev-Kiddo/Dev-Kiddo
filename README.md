@@ -10,9 +10,9 @@
 
 <h2><samp>Who I am?</samp></h2>
 
-- A Full-Stack Developer based in **[Salem](https://en.wikipedia.org/wiki/Salem_district), [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu).**
-- Have 2 years of hands-on experience in **FullStack Development, Javascript ecosystem.**
-- Visit my portfolio at **!!!**
+- <samp>A Full-Stack Developer based in **[Salem](https://en.wikipedia.org/wiki/Salem_district), [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu).**</samp>
+- <samp>Have 2 years of hands-on experience in **FullStack Development, Javascript ecosystem.**</samp>
+- <samp>Visit my portfolio at **!!!**</samp>
 
 <h2>
   <samp>Languages and Tools </samp> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
