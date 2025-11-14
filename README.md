@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Dev-Kiddo">
-  <img src="https://github.com/JatinKhatter07/Github-snake-SVG/blob/master/snake.svg"
+  <img src="https://res.cloudinary.com/dnbswhvko/image/upload/v1763095141/QSn1SEfOl_wbndqp.gif"
        alt="snake" /></a>
 </div>
 
