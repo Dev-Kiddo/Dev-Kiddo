@@ -2,9 +2,9 @@
 
 <h3><samp><strong>Driven Full Stack Web Developer originating from India</strong></samp></h3> 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Dev-Kiddo">
-  <img width="500" src="https://res.cloudinary.com/dnbswhvko/image/upload/v1763456803/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41_kho4pa.gif"
+  <img width="400" src="https://res.cloudinary.com/dnbswhvko/image/upload/v1763456803/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41_kho4pa.gif"
        alt="profile-banner" /></a>
 </div>
 
