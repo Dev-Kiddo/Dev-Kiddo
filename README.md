@@ -11,7 +11,7 @@
 <h2><samp>Who I am?</samp></h2>
 
 - <samp>A Full-Stack Web Developer based in **[Salem](https://en.wikipedia.org/wiki/Salem_district), [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu).**</samp>
-- <samp>Have 2 years of hands-on experience in **FullStack Development, Javascript ecosystem.**</samp>
+- <samp>Have 3 years of hands-on experience in **FullStack Development, Javascript ecosystem.**</samp>
 - <samp>Visit my portfolio at <a href="https://prasanthx.com" target="_blank">prasanthx.com</a></samp>
 
 <h2>
