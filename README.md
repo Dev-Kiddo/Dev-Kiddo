@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Dev-Kiddo">
-  <img src="https://res.cloudinary.com/dnbswhvko/image/upload/v1763456803/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41_kho4pa.gif"
+  <img width="500" src="https://res.cloudinary.com/dnbswhvko/image/upload/v1763456803/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41_kho4pa.gif"
        alt="profile-banner" /></a>
 </div>
 
